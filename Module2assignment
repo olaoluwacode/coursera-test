@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>title</title>
+  <style type="text/css">
+  * {
+  box-sizing: border-box;
+  }
+  #one {
+  text-align: center;
+  background-color: cyan;
+  font-size: 40px;
+    font-family: 
+  }
+  .con1 {
+  background-color: lightBlue;
+  width: 32.33%;
+  margin-left: 1%;
+  float: left;
+  padding: 0px 0px 0px 10px;
+  text-align: ;
+  }
+  .con2 {
+  background-color: lightBlue;
+  width: 32.33%;
+  margin-left: 1%;
+  float: left;
+  padding: 0px 0px 0px 10px;
+  text-align: ;
+  }
+  .con3 {
+  background-color: lightBlue;
+  width: 32.33%;
+  margin-left: 1%;
+  float: left;
+  padding: 0px 0px 0px 10px;
+  text-align: ;
+  }
+  .two1 {
+  background-color: white;
+  width: auto;
+  float:right;
+  font-size: 20px;
+  border:1px solid red;
+  }
+   .two2 {
+  background-color: orange;
+  width: auto;
+  float:right;
+  font-size: 20px;
+  border:1px solid red;
+  }
+   .two3 {
+  background-color: Black;
+  color: white;
+  width: auto;
+  float:right;
+  font-size: 20px;
+  border:1px solid red;
+  }
+  .twoa {
+  margin-top: 30px;
+  }
+    .twob {
+  margin-top: 30px;
+  }
+    .twoc {
+  margin-top: 30px;
+  }
+  
+  @media (min-width: 992px) and (max-width: 1199px){ 
+    .toy {
+	width: 32.33%;
+  margin-left: 1%;
+  }
+  
+  }
+    @media (min-width: 768px) and (max-width: 991px){ 
+    .con1 {
+	width: 49%;
+	margin-left: 1%
+  margin-bottom: 1%;
+   
+  }
+   .con2 {
+	width: 49%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+     }
+   .con3 {
+	width: 99%;
+	margin-right: 1%;
+    }
+    }
+   @media (max-width: 767px) {
+  #toy {
+  width: 98%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  }
+}
+  
+  
+  </style>
+</head>
+<body>
+<div id="one">  <p> OUR MENU  </p>  </div>
+
+	<div class="con1" id="toy">
+	
+	
+				<div class="two1"> Chicken Masala</div>
+				
+				
+				<div class="twoa">
+					Contrary to popular belief, Lorem Ipsum is not simply
+				random text. It has roots in a piece of classical Latin literature from 
+				45 BC, making it over 2000 years old. Richard McClintock, a Latin professor 
+				at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin
+				words, consectetur, from a Lorem Ipsum passage, and going through the cites of 
+				the word in classical literature, discovered the undoubtable source. Lorem Ipsum 
+				comes from sections 1.10.32 and 1.10.33 of "de Finibus Bon
+				</div>
+	
+	</div>
+	<div class="con2" id="toy">
+	
+	
+				<div class="two2"> Curry Masala</div>
+				
+				<div class="twob">
+					Contrary to popular belief, Lorem Ipsum is not simply
+				random text. It has roots in a piece of classical Latin literature from 
+				45 BC, making it over 2000 years old. Richard McClintock, a Latin professor 
+				at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin
+				words, consectetur, from a Lorem Ipsum passage, and going through the cites of 
+				the word in classical literature, discovered the undoubtable source. Lorem Ipsum 
+				comes from sections 1.10.32 and 1.10.33 of "de Finibus Bon
+				</div>
+	
+	</div>
+	
+	<div class="con3" id="toy">
+	
+	
+				<div class="two3"> Biryani masala</div>
+				
+				<div class="twoc">
+					Contrary to popular belief, Lorem Ipsum is not simply
+				random text. It has roots in a piece of classical Latin literature from 
+				45 BC, making it over 2000 years old. Richard McClintock, a Latin professor 
+				at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin
+				words, consectetur, from a Lorem Ipsum passage, and going through the cites of 
+				the word in classical literature, discovered the undoubtable source. Lorem Ipsum 
+				comes from sections 1.10.32 and 1.10.33 of "de Finibus Bon
+				</div>
+	
+	</div>
+
+
+</body>
+</html>
